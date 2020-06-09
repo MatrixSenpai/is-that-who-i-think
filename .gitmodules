@@ -1,0 +1,3 @@
+[submodule "libtmdb"]
+	path = libtmdb
+	url = ./libtmdb
