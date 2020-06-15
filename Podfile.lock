@@ -1,0 +1,68 @@
+PODS:
+  - Differentiator (4.0.1)
+  - FLEX (4.1.1)
+  - libtmdb (1.0.0):
+    - RxSwift
+  - Neon (0.4.0)
+  - Nuke (9.1.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxFlow (2.9.0):
+    - RxCocoa (>= 5.1.1)
+    - RxSwift (>= 5.1.1)
+  - RxNuke (1.0.1):
+    - Nuke (~> 9.0)
+    - RxSwift (~> 5.1.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - FLEX
+  - libtmdb (from `./libtmdb`)
+  - Neon
+  - Nuke
+  - RxCocoa
+  - RxDataSources
+  - RxFlow
+  - RxNuke
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - FLEX
+    - Neon
+    - Nuke
+    - RxCocoa
+    - RxDataSources
+    - RxFlow
+    - RxNuke
+    - RxRelay
+    - RxSwift
+
+EXTERNAL SOURCES:
+  libtmdb:
+    :path: "./libtmdb"
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FLEX: 81096107977a09836eb440173010ceeef01105d6
+  libtmdb: e476c7367c1ffdfebc5fd4570050fd19b5459b83
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+  Nuke: c97bf6006d31687cfa7c28507305143de27a4aa1
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxFlow: a7f993ba4791174d414509a0ec03bfeff530a826
+  RxNuke: 10314eff18b5e7cf961298b265507deafcdcdef3
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: 4ab744b141f988da3d8415c495f88757a4b0cac6
+
+COCOAPODS: 1.9.3
